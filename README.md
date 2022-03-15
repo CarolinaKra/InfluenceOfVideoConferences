@@ -3,11 +3,12 @@
 This project analyses the influence of Video Conferencing During Pandemics. This was based on a survey conducted in December 2020, in the middle of the Covid-19 Pandemic, and 250 participants took part of it.
 
 ## Project Overview
+* Analysed the Influence of Video Conferencing on society during the Covid-19 Pandemic 
 * Set Research Question, Motivation and Objectives
-* Design and Conduct a self-administered survey
-* Clean and Prepare the Data for Analysis
-* Analyse Data with Tables and Visualisations
-* Reach Final Conclusions
+* Designed and Conducted a self-administered survey
+* Cleaned and Prepared the Data for Analysis
+* Analysed Data with Tables, Visualisations and Correlation Calculations
+* Reached Final Conclusions
 
 ## Code and Resources Used
 * **Python version:** 3.7
