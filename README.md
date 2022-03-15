@@ -20,3 +20,5 @@ during the pandemic.
 4. Attempt to predict the use of VC in the future post-pandemic.
 
 ## Main Findings
+
+![alt text](https://github.com/CarolinaKra/InfluenceOfVideoConferences/blob/main/MeetingPurposebyAge.png)
