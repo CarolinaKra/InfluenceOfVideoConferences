@@ -22,12 +22,12 @@ during the pandemic.
 
 ## Main Findings
 
-![alt text](https://github.com/CarolinaKra/InfluenceOfVideoConferences/blob/main/MeetingPurposebyAge.png)
-![alt text](https://github.com/CarolinaKra/InfluenceOfVideoConferences/blob/main/satisfactionlevel.png)
-![alt text](https://github.com/CarolinaKra/InfluenceOfVideoConferences/blob/main/advantages.png)
-![alt text](https://github.com/CarolinaKra/InfluenceOfVideoConferences/blob/main/disadvantages.png)
-![alt text](https://github.com/CarolinaKra/InfluenceOfVideoConferences/blob/main/levelofHelp.png)
-![alt text](https://github.com/CarolinaKra/InfluenceOfVideoConferences/blob/main/futandPast.png)
+![alt text](https://github.com/CarolinaKra/InfluenceOfVideoConferences/blob/main/Images/MeetingPurposebyAge.png)
+![alt text](https://github.com/CarolinaKra/InfluenceOfVideoConferences/blob/main/Images/satisfactionlevel.png)
+![alt text](https://github.com/CarolinaKra/InfluenceOfVideoConferences/blob/main/Images/advantages.png)
+![alt text](https://github.com/CarolinaKra/InfluenceOfVideoConferences/blob/main/Images/disadvantages.png)
+![alt text](https://github.com/CarolinaKra/InfluenceOfVideoConferences/blob/main/Images/levelofHelp.png)
+![alt text](https://github.com/CarolinaKra/InfluenceOfVideoConferences/blob/main/Images/futandPast.png)
 
 
 ## Final Conclusions
