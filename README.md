@@ -1,4 +1,5 @@
-# Influence Of Video Conferences, my DataViz Project
+# Influence Of Video Conferences
+# A DataViz and Qualitative Analysis Project
 This project analyses the influence of Video Conferencing During Pandemics. This was based on a survey conducted in December 2020, in the middle of the Covid-19 Pandemic, and 250 participants took part of it.
 
 ## Project Overview
@@ -22,3 +23,6 @@ during the pandemic.
 ## Main Findings
 
 ![alt text](https://github.com/CarolinaKra/InfluenceOfVideoConferences/blob/main/MeetingPurposebyAge.png)
+
+![alt text](https://github.com/CarolinaKra/InfluenceOfVideoConferences/blob/main/levelofHelp.png)
+![alt text](https://github.com/CarolinaKra/InfluenceOfVideoConferences/blob/main/futandPast.png)
