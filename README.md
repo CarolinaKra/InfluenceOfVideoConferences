@@ -9,7 +9,7 @@ This project analyses the influence of Video Conferencing During Pandemics. This
 * Cleaned and Prepared the Data for Analysis
 * Analysed Data with Tables, Visualisations and Correlation Calculations
 * Concluded that Video Concferencing brings a great benefit for the society in the way that people can connect and the way that individuals can develop, especially during the pandemic
-* Predicted that in the future post-pandemic, the population will use Video Concferencing less frequent than the time during pandemic, and it will continue to be an important tool for work and study purposes.
+* Predicted that in the future post-pandemic, the population will use Video Concferencing less frequently than the time during pandemic, and it will continue to be an important tool for work and study purposes.
 
 ## Code and Resources Used
 * **Python version:** 3.7
@@ -41,7 +41,7 @@ Even though people are disappointed by the decrease on personal and affective co
 
 I have seen that Video Conferencing kept the society connected which helped them cope with social distancing by a reasonable amount. In addition, for almost a third of the population, Video Conferencing has stimulated their personal development, mostly by developing their technological skills.
 
-I predicted that in the future post-pandemic, the population will use Video Conferencing less frequent than the time during pandemic, and it will continue to be an important tool for work and study purposes.
+I predicted that in the future post-pandemic, the population will use Video Conferencing less frequently than the time during pandemic, and it will continue to be an important tool for work and study purposes.
 
 I concluded that Video Conferencing brings a great benefit for the society in the way that people can connect and the way that individuals can develop, especially during the pandemic.
 
